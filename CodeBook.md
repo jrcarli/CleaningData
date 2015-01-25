@@ -4,10 +4,10 @@ This document describes the original data set used for the course project, and t
 
 ##### Table of Contents:
 
-* [Original Data Set](#Original Data Set)
-* [Tidy Data Set](#Tidy Data Set)
-* [Creating the Tidy Data Set](#Creating the Tidy Data Set)
-* [Script Actions](#Script Actions)
+* [Original Data Set](#original-data-set)
+* [Tidy Data Set](#tidy-data-set)
+* [Creating the Tidy Data Set](#creating-the-tidy-data-set)
+* [Script Actions](#script-actions)
 
 ## Original Data Set
 The original data set for this course proejct was downloaded from here: 
