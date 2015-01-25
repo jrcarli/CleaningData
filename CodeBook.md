@@ -127,8 +127,20 @@ See the [original data set documentation](http://archive.ics.uci.edu/ml/datasets
 ## Creating the Tidy Data Set
 
 ### Download the Original Data
+Download the original data set from here:
+
+[https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+
+For instance:
+
+	$ curl --insecure https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip > uci_har.zip	
 
 ### Unzip the Original Data
+Unzip the downloaded file. For instance:
+
+	$ unzip uci_har.zip
+	
+The zip file may be deleted (optional) after this step.
 
 ### Execute the Analysis R Script
 
